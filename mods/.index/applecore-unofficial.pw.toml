@@ -1,0 +1,21 @@
+filename = 'AppleCore-3.3.12.jar'
+name = 'AppleCore Unofficial 1.7.10'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3.3.12'
+
+[download]
+hash = 'e7b973a2d833690201082be58d92dbdb9f7555adcac73efbf229f5a930481df54a812ea5bd0966a5f1d99be970004e4cc0c6d5e96a35bca873918300f3579aa3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/c3I7Akgu/versions/9Gjny8dk/AppleCore-3.3.12.jar'
+
+[update.modrinth]
+mod-id = 'c3I7Akgu'
+version = '9Gjny8dk'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'ghjoiQAl'
+type = 'REQUIRED'

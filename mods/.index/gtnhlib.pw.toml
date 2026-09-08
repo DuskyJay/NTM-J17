@@ -1,0 +1,21 @@
+filename = 'gtnhlib-0.11.44.jar'
+name = 'GTNH Lib'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.11.44'
+
+[download]
+hash = '31c71e3e1d77c92ac397175217636d3621e5c2e4172e74e2fd557738a79952c346486806917d774407e301c9eb770fee5cd1bc616cf826054af5c82945e633d8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vTvnv7qp/versions/MaLRqmrt/gtnhlib-0.11.44.jar'
+
+[update.modrinth]
+mod-id = 'vTvnv7qp'
+version = 'MaLRqmrt'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'ghjoiQAl'
+type = 'REQUIRED'
